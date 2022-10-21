@@ -1,0 +1,10 @@
+[
+	{
+		"email": "test.hr@gmail.com",
+		"title": "Front end developer",
+		"description": "Work with data scientists and analysts to improve software",
+		"location": "remote",
+		"salary": 15000,
+		"status": "full-time"
+	}
+]
